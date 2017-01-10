@@ -1,10 +1,12 @@
-[Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
+Rory Aitchison
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
 I have worked for myself for the last three years running an estate agency that I founded. I changed careers to learn to code so that I can bring my ideas to life and make a positive change in the world.
 
-My final project at Makers Academy was [CSS Playground](https://css-play.herokuapp.com), a single page app that allows you to generate CSS and HTML without writing any code.
+My final project at Makers Academy was [CSS Playground](https://css-play.herokuapp.com), a single page app that allows you to generate CSS and HTML without writing any code, written with React.
+
+[Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
 
 ### Skills and Strengths
 
@@ -37,23 +39,23 @@ I have learned lots of high level skills and behaviours at Makers Academy, the f
 
 ### Employment history
 
-**2013 - 2016**
+**2013 - PRESENT**
 
 Founder of Fortress Property Investment Ltd, a sales, acquisition, lettings and property management estate agency.
 
-**2010 - 2013**
+**2011 - 2013**
 
 Klin Property Ltd - an investment and development estate agency based in the City of London
 
-**2009-2010**
+**2010 - 2011**
 
 Industri Management Ltd - events company based at Battersea Power Station
 
-**2009**
+**2010**
 
 Marque II - Fleet Manager at a sports car club.
 
-**2006-2008**
+**2006 - 2008**
 
 Newcastle University - BA Hons in English Literature and Classical Studies
 
@@ -68,4 +70,4 @@ Philosophy
 
 Sustainable living
 
-[Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
+[Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history)
