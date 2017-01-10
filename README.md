@@ -1,5 +1,4 @@
-<a name="SKILLS">SKILLS AND STRENGTHS</a> | <a name="COURSE">THE COURSE</a> | <a name="EMPLOY">EMPLOYMENT HISTORY</a> | <a name="INTERESTS">INTERESTS</a>
-
+[Skills and Strengths](#skills) | [Interests](#interests)
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
@@ -7,7 +6,7 @@ I have worked for myself for the last three years running an estate agency that 
 
 My final project at Makers Academy was [CSS Playground](https://css-play.herokuapp.com), a single page app that allows you to generate CSS and HTML without writing any code.
 
-### SKILLS AND [STRENGTHS](#SKILLS)
+### Skills and Strengths
 
 **Determined**
 I have changed the direction of my life in order to become a software developer, deciding not to grow a profitable business in order to learn a creative and technical skill. Determination saw me through learning my first language in the months I spent learning solo before deciding to come to Makers Academy.
