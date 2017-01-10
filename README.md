@@ -1,4 +1,4 @@
-[Skills and Strengths](#skills-and-strengths) | [Interests](#interests)
+[Skills and Strengths](#skills-and-strengths) | [The Course](\the-course---what-i-learned-and-and-enjoyed) | [Employment History](#employment-history) [Interests](#interests)
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
@@ -19,7 +19,7 @@ I care about people and understanding them. Excellent people skills are vital to
 
 My peers at Makers Academy listed my qualities in an anonymised feedback session: ‘inquisitive', 'asks great questions', ‘committed', 'dedicates time to learning', 'good listener' and ‘patient'.
 
-### THE COURSE - WHAT I LEARNED AND ENJOYED
+### The Course - what I learned and enjoyed
 
 Makers Academy is a fast-paced environment where you are constantly learning new concepts and languages. In our fourth week we built a website with a database that stored bookmarks. I had never created a database before, and by the end of the week we had implemented a web interface with a database that stored user emails and passwords.
 
@@ -31,30 +31,30 @@ We had four project weeks during the course which taught us how to embrace the p
 
 I have learned lots of high level skills and behaviours at Makers Academy, the foremost of which is learning how to learn. I now embrace the initial discomfort of unfamiliar territory, and have strategies for educating myself when I am stuck.
 
-### EMPLOYMENT HISTORY
+### Employment history
 
-2013 - 2016
+**2013 - 2016**
 
 Founder of Fortress Property Investment Ltd, a sales, acquisition, lettings and property management estate agency.
 
-2010 - 2013
+**2010 - 2013**
 
 Klin Property Ltd - an investment and development estate agency based in the City of London
 
-2009-2010
+**2009-2010**
 
 Industri Management Ltd - events company based at Battersea Power Station
 
-2009
+**2009**
 
 Marque II - Fleet Manager at a sports car club.
 
-2006-2008
+**2006-2008**
 
 Newcastle University - BA Hons in English Literature and Classical Studies
 
 
-### INTERESTS
+### Interests
 
 Hill walking & camping
 
