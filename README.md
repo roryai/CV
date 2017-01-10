@@ -6,7 +6,10 @@ I have worked for myself for the last three years running an estate agency that 
 
 My final project at Makers Academy was [CSS Playground](https://css-play.herokuapp.com), a single page app that allows you to generate CSS and HTML without writing any code, written with React.
 
+__________________________________________________________________________________________________________________________________________________________
 [Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
+__________________________________________________________________________________________________________________________________________________________
+
 
 ### Skills and Strengths
 
@@ -70,4 +73,6 @@ Philosophy
 
 Sustainable living
 
+__________________________________________________________________________________________________________________________________________________________
 [Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
+__________________________________________________________________________________________________________________________________________________________
