@@ -1,4 +1,4 @@
-[Skills and Strengths](#skills-and-strengths) | [The Course](\the-course---what-i-learned-and-and-enjoyed) | [Employment History](#employment-history) [Interests](#interests)
+[Skills and Strengths](#skills-and-strengths) | [The Course](\the-course:-what-i-learned-and-and-enjoyed) | [Employment History](#employment-history) | [Interests](#interests)
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
@@ -8,18 +8,22 @@ My final project at Makers Academy was [CSS Playground](https://css-play.herokua
 
 ### Skills and Strengths
 
+My peers at Makers Academy listed my qualities in an anonymised feedback session: ‘inquisitive', 'asks great questions', ‘committed', 'dedicates time to learning', 'good listener' and ‘patient'.
+
 **Determined**
-I have changed the direction of my life in order to become a software developer, deciding not to grow a profitable business in order to learn a creative and technical skill. Determination saw me through learning my first language in the months I spent learning solo before deciding to come to Makers Academy.
+
+I have changed the direction of my life in order to become a software developer, deciding to learn a creative and technical skill instead of growing a profitable business. Determination saw me through learning my first language in the months I spent learning solo before deciding to come to Makers Academy.
 
 **Curious and inquisitive**
+
 I always want to know both how and why things work the way they do. This allows me to dig deep into the concepts behind the languages and frameworks that I use. My methodical learning style has resulted in a solid foundation of knowledge and good code sense that means that I am able to explain why things work when I encounter them in unfamiliar circumstances, or to combine things I already know in ways I haven't previously encountered.
 
 **Empathic**
+
 I care about people and understanding them. Excellent people skills are vital to understanding and managing a client's needs, and allow for productive work environments.
 
-My peers at Makers Academy listed my qualities in an anonymised feedback session: ‘inquisitive', 'asks great questions', ‘committed', 'dedicates time to learning', 'good listener' and ‘patient'.
 
-### The Course - what I learned and enjoyed
+### The Course: what I learned and enjoyed
 
 Makers Academy is a fast-paced environment where you are constantly learning new concepts and languages. In our fourth week we built a website with a database that stored bookmarks. I had never created a database before, and by the end of the week we had implemented a web interface with a database that stored user emails and passwords.
 
