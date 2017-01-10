@@ -1,4 +1,4 @@
-Rory Aitchison
+### Rory Aitchison - CV
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
@@ -6,7 +6,7 @@ I have worked for myself for the last three years running an estate agency that 
 
 My final project at Makers Academy was [CSS Playground](https://css-play.herokuapp.com), a single page app that allows you to generate CSS and HTML without writing any code, written with React.
 
-[Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
+[Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
 
 ### Skills and Strengths
 
@@ -70,4 +70,4 @@ Philosophy
 
 Sustainable living
 
-[Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history)
+[Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
