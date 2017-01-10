@@ -1,4 +1,4 @@
-[Skills and Strengths](#skills) | [Interests](#interests)
+[Skills and Strengths](#skills and strengths) | [Interests](#interests)
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
