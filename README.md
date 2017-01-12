@@ -4,7 +4,7 @@ I am a junior software developer who has just finished an intensive 16 week soft
 
 I have worked for myself for the last three years running an estate agency that I founded. I changed careers to learn to code so that I can bring my ideas to life and make a positive change in the world.
 
-Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS
+**Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS**
 
 __________________________________________________________________________________________________________________________________________________________
 [Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [CSS Playground](https://github.com/roryai/CSS-playground) | A single page app that allows you to generate CSS and HTML without writing any code. A user can create divs and set their colour, border style, border width, position etc. Images and links can be inserted. The HTML and CSS updates in real time on the screen so that users can see the effect of the changes they make. CSS and HTML can then be downloaded with a click of a button. You can try it [here](https://css-play.herokuapp.com) | Made solely in React |
+| [CSS Playground](https://github.com/roryai/CSS-playground) | A single page app that allows you to generate CSS and HTML without writing any code. A user can create divs and set their colour, border style, border width, position etc. Images and links can be inserted. The CSS and HTML updates in real time on the screen so that users can see the effect of the changes they make. CSS and HTML can then be downloaded with a click of a button. You can try it [here](https://css-play.herokuapp.com) | React |
 | [Note App](https://github.com/roryai/note-app) | This is an exercise in pure javaScript and demonstrates my object oriented code skills. The result is a simple single page web app that allows a user to write a note, then view that note on the page by clicking on a link consisting of the first 20 characters of the note. | javaScript |
 
 
@@ -37,7 +37,7 @@ I care about people and understanding them. Excellent people skills are vital to
 
 ### Makers Academy
 
-Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. Broadly we spent the first 4 weeks learning good object oriented design principles, and then learned about various aspects of the web and web app development. For example:
+Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. We spent the first 4 weeks learning good object oriented design principles, and during the final 8 weeks we learned about various aspects of the web and web app development in pairs and groups. For example:
 
 Week 4: built a website that stored bookmarks, implemented a database and encrypted user login.
 
