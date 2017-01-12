@@ -4,11 +4,18 @@ I am a junior software developer who has just finished an intensive 16 week soft
 
 I have worked for myself for the last three years running an estate agency that I founded. I changed careers to learn to code so that I can bring my ideas to life and make a positive change in the world.
 
-My final project at Makers Academy was [CSS Playground](https://css-play.herokuapp.com), a single page app that allows you to generate CSS and HTML without writing any code, written with React.
+Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS
 
 __________________________________________________________________________________________________________________________________________________________
 [Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
 __________________________________________________________________________________________________________________________________________________________
+
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [CSS Playground](https://github.com/roryai/CSS-playground) | A single page app that allows you to generate CSS and HTML without writing any code. A user can create divs and set their colour, border style, border width, position etc. Images and links can be inserted. The HTML and CSS updates in real time on the screen so that users can see the effect of the changes they make. CSS and HTML can then be downloaded with a click of a button. You can try it [here](https://css-play.herokuapp.com) | Made solely in React |
+| [Note App](https://github.com/roryai/note-app) | This is an exercise in pure javaScript and demonstrates my object oriented code skills. The result is a simple single page web app that allows a user to write a note, then view that note on the page by clicking on a link consisting of the first 20 characters of the note. | javaScript |
+
 
 
 ### Skills and Strengths
@@ -30,13 +37,15 @@ I care about people and understanding them. Excellent people skills are vital to
 
 ### Makers Academy
 
-Makers Academy is a fast-paced environment where you are constantly learning new concepts and languages. In our fourth week we built a website with a database that stored bookmarks. I had never created a database before, and by the end of the week we had implemented a web interface with a database that stored user emails and passwords.
+Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. Broadly we spent the first 4 weeks learning good object oriented design principles, and then learned about various aspects of the web and web app development. For example:
 
-In the next week we switched to javaScript, which was a somewhat jarring experience after spending so long with Ruby. After an uncomfortable few hours I found my feet again and by the time I had finished week 7 I had come to have a much greater appreciation for javaScript, and found myself enjoying writing with it.
+Week 4: built a website that stored bookmarks, implemented a database and encrypted user login.
 
-The following we used Rails, the feel of which is in stark contrast to a single page javaScript app. It was a valuable insight into a powerful framework that values convention over configuration.
+Week 7: created a single page note taking app using pure javaScript.
 
-We had four project weeks during the course which taught us how to embrace the power of working as a group and also how to overcome the challenges you face. For our final project we used React, which has a steep learning curve and requires you to think in a way that feels counter intuitive at first. Our first week was hard, but by the start of our second week we were able to be very productive and succeeded at what we had set out to do.
+Week 8: Rails week. We made a yelp clone from the ground up. Fascinating experiencing the difference between pure javaScript and a framework that takes care of a lot of code in the background.
+
+We had four project weeks during the course which taught us how to embrace the power of working as a group and also how to overcome the challenges you face. Experiencing pairing and group work has given me a valuable insight into different working styles.
 
 I have learned lots of high level skills and behaviours at Makers Academy, the foremost of which is learning how to learn. I now embrace the initial discomfort of unfamiliar territory, and have strategies for educating myself when I am stuck.
 
