@@ -34,7 +34,7 @@ I always want to know both how and why things work the way they do. This allows 
 
 I care about people and understanding them. Excellent people skills are vital to understanding and managing a client's needs, and allow for productive work environments.
 
-See the results of my [Saberr](https://www.saberr.com) analysis [here](http://www.imgur.com/a/ESeal).
+See the results of my [Saberr](https://www.saberr.com) analysis [here](http://www.imgur.com/a/wE1VIQg).
 
 
 ### Makers Academy
