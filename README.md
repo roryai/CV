@@ -53,7 +53,7 @@ I have learned lots of high level skills and behaviours at Makers Academy, the f
 
 ### Employment history
 
-**2013 - PRESENT**
+**2013 - Present**
 
 Founder of Fortress Property Investment Ltd, a sales, acquisition, lettings and property management estate agency.
 
