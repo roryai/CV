@@ -34,7 +34,7 @@ I always want to know both how and why things work the way they do. This allows 
 
 I care about people and understanding them. Excellent people skills are vital to understanding and managing a client's needs, and allow for productive work environments.
 
-See the results of my [Saberr](www.saberr.com) analysis [here](www.imgur.com/a/ESeal).
+See the results of my [Saberr](https://www.saberr.com) analysis [here](https://www.imgur.com/a/ESeal).
 
 
 ### Makers Academy
@@ -69,9 +69,9 @@ Industri Management Ltd - events company based at Battersea Power Station
 
 Marque II - Fleet Manager at a sports car club.
 
-**2006 - 2008**
+**2006 - 2009**
 
-Newcastle University - BA Hons in English Literature and Classical Studies
+Newcastle University - 2.1 BA Hons in English Literature and Classical Studies
 
 
 ### Interests
