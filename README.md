@@ -2,7 +2,7 @@
 
 I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
 
-I have worked for myself for the last three years running an estate agency that I founded. I changed careers to learn to code so that I can bring my ideas to life and make a positive change in the world.
+I have worked for myself for the last three years running an estate agency that I founded. I changed careers to learn to code so that I can bring my ideas to life and make a positive change in the world. I wound down the sales and acquisitions side of the business before Makers Academy and continue to manage the properties I already have on my books. I was able to do this in my spare time whilst working 7 days a week at Makers Academy.
 
 **Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS**
 
