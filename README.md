@@ -13,6 +13,7 @@ ________________________________________________________________________________
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [photo_transfer](https://github.com/roryai/photo_transfer) | My current project, a program that takes the photos from my camera and transfers them to my hard drive. An exercise in using Ruby to manipulate my file system. Current functionality is to create folders according to the date the photo was taken (taken from the EXIF data) and sort the photos into the apropriate dated folder. Next steps are ensuring files aren't copied, managing error handling etc. | Ruby |
 | [CSS Playground](https://github.com/roryai/CSS-playground) | A single page app that allows you to generate CSS and HTML without writing any code. A user can create divs and set their colour, border style, border width, position etc. Images and links can be inserted. The CSS and HTML updates in real time on the screen so that users can see the effect of the changes they make. CSS and HTML can then be downloaded with a click of a button. You can try it [here](https://css-play.herokuapp.com) | React |
 | [Note App](https://github.com/roryai/note-app) | This is an exercise in pure javaScript and demonstrates my object oriented code skills. The result is a simple single page web app that allows a user to write a note, then view that note on the page by clicking on a link consisting of the first 20 characters of the note. | javaScript |
 
