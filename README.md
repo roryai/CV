@@ -1,6 +1,6 @@
 ### Rory Aitchison - CV
 
-I have recently completed an intensive 16 week software development course at Makers Academy. I am now looking for a job as a spftware developer.
+I have recently completed an intensive 16 week software development course at Makers Academy. I am now looking for a job as a software developer.
 
 I have worked for myself for the last three years running a business that I founded. I changed careers to learn to code so that I can do something I love and make a positive change in the world.
 
@@ -29,18 +29,18 @@ I have changed the direction of my life in order to become a software developer,
 
 **Curious and inquisitive**
 
-I always want to know both how and why things work the way they do. My boundless curiosity keeps me asking questions and drives me to learn why things work the way they do, and how they are connected to other things. Combined with strong abstract thinking, this gives me excellent problem solving and learning skills.
+My boundless curiosity drives me to learn both how and why things work the way they do, and how they are connected to other things. I am always asking questions, and love the process of learning. Combined with strong abstract thinking, this gives me excellent problem solving skills and ability to acquire new knowledge.
 
 **Empathic**
 
-I care about people and understanding them. I believe strongly in a people-focused approach to work and the work environment. Excellent people skills are vital to understanding and managing a client's needs, and allow for productive work environments.
+I care about people and understanding them. I believe strongly in a people-focused approach to work and the work environment. Excellent people skills are vital to understanding and managing a client's needs, and contribute towards productive work environments.
 
 See the results of my [Saberr](https://www.saberr.com) analysis [here](http://imgur.com/a/ILkhy).
 
 
 ### Makers Academy
 
-Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. We spent the first 4 weeks learning solid object oriented design principles, and during the final 8 weeks we learned about various aspects of the web and web app development in pairs and groups. For example:
+Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. We pair-programmed every day, which was an excellent way to learn and share knowledge. We spent the first 4 weeks learning solid object oriented design principles, and during the final 8 weeks we learned about various aspects of the web and web app development in pairs and groups. For example:
 
 Week 4: built a website that stored bookmarks, implemented a database and encrypted user login.
 
