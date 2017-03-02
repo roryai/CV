@@ -1,8 +1,8 @@
 ### Rory Aitchison - CV
 
-I am a junior software developer who has just finished an intensive 16 week software development course at Makers Academy.
+I have recently completed an intensive 16 week software development course at Makers Academy. I am now looking for a job as a spftware developer.
 
-I have worked for myself for the last three years running an estate agency that I founded. I changed careers to learn to code so that I can bring my ideas to life and make a positive change in the world. I wound down the sales and acquisitions side of the business before Makers Academy and continue to manage the properties I already have on my books. I was able to do this in my spare time whilst working 7 days a week at Makers Academy.
+I have worked for myself for the last three years running a business that I founded. I changed careers to learn to code so that I can do something I love and make a positive change in the world.
 
 **Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS**
 
@@ -29,18 +29,18 @@ I have changed the direction of my life in order to become a software developer,
 
 **Curious and inquisitive**
 
-I always want to know both how and why things work the way they do. This allows me to dig deep into the concepts behind the languages and frameworks that I use. My methodical learning style has resulted in a solid foundation of knowledge and good code sense that means that I am able to explain why things work when I encounter them in unfamiliar circumstances, or to combine things I already know in ways I haven't previously encountered.
+I always want to know both how and why things work the way they do. My boundless curiosity keeps me asking questions and drives me to learn why things work the way they do, and how they are connected to other things. Combined with strong abstract thinking, this gives me excellent problem solving and learning skills.
 
 **Empathic**
 
-I care about people and understanding them. Excellent people skills are vital to understanding and managing a client's needs, and allow for productive work environments.
+I care about people and understanding them. I believe strongly in a people-focused approach to work and the work environment. Excellent people skills are vital to understanding and managing a client's needs, and allow for productive work environments.
 
 See the results of my [Saberr](https://www.saberr.com) analysis [here](http://imgur.com/a/ILkhy).
 
 
 ### Makers Academy
 
-Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. We spent the first 4 weeks learning good object oriented design principles, and during the final 8 weeks we learned about various aspects of the web and web app development in pairs and groups. For example:
+Makers Academy is an intense and fast-paced environment where you are constantly learning new concepts and languages. We spent the first 4 weeks learning solid object oriented design principles, and during the final 8 weeks we learned about various aspects of the web and web app development in pairs and groups. For example:
 
 Week 4: built a website that stored bookmarks, implemented a database and encrypted user login.
 
@@ -54,7 +54,7 @@ I have learned lots of high level skills and behaviours at Makers Academy, the f
 
 ### Employment history
 
-**2013 - Present**
+**2013 - 2017**
 
 Founder of Fortress Property Investment Ltd, a sales, acquisition, lettings and property management estate agency.
 
