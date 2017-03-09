@@ -2,9 +2,10 @@
 
 I have recently completed an intensive 16 week software development course at Makers Academy. I am now looking for a job as a software developer.
 
-I have worked for myself for the last three years running a business that I founded. I changed careers to learn to code so that I can do something I love and make a positive change in the world.
+I have worked for myself for the last three years running a business that I founded. I decided to change careers in order to do something I love every day. I want to be able to bring my ideas to life and have the power to change my environment through the creative power of code.
 
-**Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS**
+**Languages and frameworks:** Ruby, javaScript, Rails, React, Sinatra, Node.js, PostgreSQL, RSpec, Jasmine, Selenium WebDriver, Capybara, HTML and CSS
+**Tech Skills:** Agile practices, TDD, BDD, Lean Software Development Principles, pair programming, OO principles, XP values
 
 __________________________________________________________________________________________________________________________________________________________
 [Skills and Strengths](#skills-and-strengths) | [Makers Academy](#makers-academy) | [Employment History](#employment-history) | [Interests](#interests)
@@ -46,7 +47,7 @@ Week 4: built a website that stored bookmarks, implemented a database and encryp
 
 Week 7: created a single page note taking app using pure javaScript.
 
-Week 8: Rails week. We made a yelp clone from the ground up. Fascinating experiencing the difference between pure javaScript and a framework that takes care of a lot of code in the background.
+Week 8: Rails week. We made a yelp clone from the ground up. Fascinating experiencing the difference between pure javaScript and a framework that abstracts the configuration away.
 
 We had four project weeks during the course which taught us how to embrace the power of working as a group and also how to overcome the challenges you face. Experiencing pairing and group work has given me a valuable insight into different working styles.
 
